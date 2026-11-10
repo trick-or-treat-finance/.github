@@ -1,12 +1,14 @@
-## Hi there 👋
+## Our Values 👋
 
-Welcome to the team!
+We believe that personal finance is not a difficult skill, yet a lot of people overlook it.
 
-We believe that personal finance is not a difficult skill, yet a lot of people overlook it. \n
-We believe that personal finance is about awereness. You must be aware where your money goes first. Then you can get disciplined about it and actually grow it. \n
-We believe that splitting payments should be seamless. You should not be manually inputting anything in 2026 \n
-We believe that investing should be automatic. \n
-We believe in simplicity. \n
+We believe that personal finance is about awereness. You must be aware where your money goes first. Then you can get disciplined about it and actually grow it.
+
+We believe that splitting payments should be seamless. You should not be manually inputting anything in 2026
+
+We believe that investing should be automatic.
+
+We believe in simplicity.
 <!--
 
 **Here are some ideas to get you started:**
